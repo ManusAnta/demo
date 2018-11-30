@@ -39,7 +39,7 @@
     "NOTA_CREDITICIA": "Buena",
     "ES_MIEMBRO_UNE": "N"
   }
-  ]
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
