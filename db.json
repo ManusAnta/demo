@@ -12,6 +12,34 @@
     "NOTA_CREDITICIA": "Crítico",
     "ES_MIEMBRO_UNE": "N"
   },
+  "listaCliente": [
+  {
+    "ID_TERCERO": 44,
+    "NOMBRE_EMPRESA": "WORDS IN PROGRESS, S.L.",
+    "ACRONIMO": "",
+    "CIF": "B66667874",
+    "CD_PROVEEDOR": "",
+    "IN_BAJA": "N",
+    "IN_REQUIERE_PEDIDO": "S",
+    "IN_BLOQUEADO_IMPAGO": "N",
+    "OBSERVACIONES": "",
+    "NOTA_CREDITICIA": "Crítico",
+    "ES_MIEMBRO_UNE": "N"
+  },
+  {
+    "ID_TERCERO": 45,
+    "NOMBRE_EMPRESA": "INDRA SISTEMAS, S.L.",
+    "ACRONIMO": "INDRA",
+    "CIF": "B28282828",
+    "CD_PROVEEDOR": "123",
+    "IN_BAJA": "N",
+    "IN_REQUIERE_PEDIDO": "S",
+    "IN_BLOQUEADO_IMPAGO": "N",
+    "OBSERVACIONES": "",
+    "NOTA_CREDITICIA": "Buena",
+    "ES_MIEMBRO_UNE": "N"
+  }
+  ]
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
