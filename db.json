@@ -14,43 +14,68 @@
   },
   "GetListaCliente": [
   {
-    "ID_TERCERO": 44,
-    "NOMBRE_EMPRESA": "WORDS IN PROGRESS, S.L.",
-    "ACRONIMO": "",
-    "CIF": "B66667874",
-    "CD_PROVEEDOR": "",
-    "IN_BAJA": "N",
-    "IN_REQUIERE_PEDIDO": "S",
-    "IN_BLOQUEADO_IMPAGO": "N",
-    "OBSERVACIONES": "",
-    "NOTA_CREDITICIA": "Crítico",
-    "ES_MIEMBRO_UNE": "N"
+    "ID_TERCERO" = 15,
+    "NOMBRE_EMPRESA" = "ALAVESA DE PINTURA, S.A.",
+    "ACRONIMO" = "ALAVESA DE PINTURAS",
+    "CIF" =  "A01021690"
   },
   {
-    "ID_TERCERO": 45,
-    "NOMBRE_EMPRESA": "INDRA SISTEMAS, S.L.",
-    "ACRONIMO": "INDRA",
-    "CIF": "B28282828",
-    "CD_PROVEEDOR": "123",
-    "IN_BAJA": "N",
-    "IN_REQUIERE_PEDIDO": "S",
-    "IN_BLOQUEADO_IMPAGO": "N",
-    "OBSERVACIONES": "",
-    "NOTA_CREDITICIA": "Buena",
-    "ES_MIEMBRO_UNE": "N"
+    "ID_TERCERO" = 10,
+    "NOMBRE_EMPRESA" = "ALAVA-LASCARAY, S.A.",
+    "ACRONIMO" = "",
+    "CIF" = "A01008457"
+  },
+  {
+    "ID_TERCERO" = 5,
+    "NOMBRE_EMPRESA" = "ALAVA INGENIEROS, S.A.",
+    "ACRONIMO" = "",
+    "CIF" = "A28570190"
+  },
+  {
+    "ID_TERCERO" = 3,
+    "NOMBRE_EMPRESA" = "ALAVESA DE UTILLAJES, S.A.",
+    "ACRONIMO" = "",
+    "CIF" = "A01238484"
+  },
+  {
+    "ID_TERCERO" = 45,
+    "NOMBRE_EMPRESA" = "ALAVESA DE BARNICES, S.A.",
+    "ACRONIMO" = "",
+    "CIF" =  "A01008754"
   }
   ],
-  "GetDireccionFacturacion": 
+  "GetDireccionFacturacion": [
   {
-   "ID_DIRECCION": 45,
-	"ID_TERCERO": 459,
-	"DIRECCION": "calle prueba, 25",
-	"LOCALIDAD": "MADRID",
-	"CDPROVIN": "28",
-	"DSPROVIN": "MADRID",
-	"CODPOSTAL":"28056",
-	"CDPAIS": "ES"
+    "ID_DIRECCION" = 11,
+	"ID_TERCERO" = 10,
+	"DIRECCION" = "PI AMPROSERO,  PARCELA 19",
+	"LOCALIDAD" = "BARCENA DE CICERO",
+	"CDPROVIN" = "ALAVESA DE PINTURAS",
+	"DSPROVIN" = "CANTABRIA",
+	"CODPOSTAL" = "39",
+	"CDPAIS" =  "ES"
   },
+  {
+    "ID_DIRECCION" = 12,
+	"ID_TERCERO" = 10,
+	"DIRECCION" = "CAMI REAL DE CALDAS, 34",
+	"LOCALIDAD" = "BARCELONA",  
+	"CDPROVIN" = "08",
+	"DSPROVIN" = "BARCELONA",
+	"CODPOSTAL" = "08184",
+	"CDPAIS" =  "ES"
+  },
+  {
+   "ID_DIRECCION" = 13, 
+   "ID_TERCERO" = 10,
+   "DIRECCION" = "CL INDUSTRIESTRASSE, 56",
+   "LOCALIDAD" = "HASSFURT",  
+   "CDPROVIN" = "",
+   "DSPROVIN" = "",
+   "CODPOSTAL" = "97437",
+   "CDPAIS" =  "DE"
+  }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
