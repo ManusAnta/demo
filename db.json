@@ -76,11 +76,36 @@
    "CDPAIS": "DE"
   }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "GetListaLineaFactura": [
+  {
+   "ID_LINEA_FACTURA": 101,
+   "ID_FACTURA": 10,
+   "UNIDAD": "JO",
+   "CANTIDAD": 2,
+   "PRECIO": 725,
+   "TARIFA_PROVEEDOR":,
+   "ORDEN_COMPRA":""
+  },
+  {
+   "ID_LINEA_FACTURA": 102,
+   "ID_FACTURA": 10,
+   "UNIDAD": "UN",
+   "CANTIDAD": 1,
+   "PRECIO": 250,
+   "TARIFA_PROVEEDOR":,
+   "ORDEN_COMPRA":""
+  }
   ],
-  "profile": {
-    "name": "typicode"
+  "GetArticulo": {
+   "ID_ARTICULO": 123,
+   "CD_ARTICULO": "CS-ISO9000-AEN",
+   "DS_ARTICULO": "Jornada auditor AENOR ISO9000",
+   "FAMILIA": "ISO9000",
+   "TIPO": "ZZZ",
+   "GRUPO_PRECIO": "A1",
+   "PRECIO": 725,
+   "UNIDAD": "JO",
+   "ESTADO": "Estado",
+   "FECHA_ESTADO": "01/01/15"
   }
 }
