@@ -1,4 +1,3 @@
-[
 {
   "GetCliente": {
     "ID_TERCERO": 44,
@@ -45,6 +44,16 @@
     "CIF": "A01008754"
   }
   ],
+    "GetDireccionFactura": {
+    "ID_DIRECCION": 12,
+	"ID_TERCERO": 10,
+	"DIRECCION": "CAMI REAL DE CALDAS, 34",
+	"LOCALIDAD": "BARCELONA",  
+	"CDPROVIN": "08",
+	"DSPROVIN": "BARCELONA",
+	"CODPOSTAL": "08184",
+	"CDPAIS": "ES"	
+  },
   "GetListaDireccionFactura": [
   {
     "ID_DIRECCION": 11,
@@ -84,7 +93,7 @@
    "UNIDAD": "JO",
    "CANTIDAD": 2,
    "PRECIO": 725,
-   "TARIFA_PROVEEDOR":0,
+   "TARIFA_PROVEEDOR":,
    "ORDEN_COMPRA":""
   },
   {
@@ -93,7 +102,7 @@
    "UNIDAD": "UN",
    "CANTIDAD": 1,
    "PRECIO": 250,
-   "TARIFA_PROVEEDOR": 0,
+   "TARIFA_PROVEEDOR":,
    "ORDEN_COMPRA":""
   }
   ],
@@ -109,17 +118,4 @@
    "ESTADO": "Estado",
    "FECHA_ESTADO": "01/01/15"
   }
-},
-{
-    "GetDireccionFactura": {
-    "ID_DIRECCION": 12,
-	"ID_TERCERO": 10,
-	"DIRECCION": "CAMI REAL DE CALDAS, 34",
-	"LOCALIDAD": "BARCELONA",  
-	"CDPROVIN": "08",
-	"DSPROVIN": "BARCELONA",
-	"CODPOSTAL": "08184",
-	"CDPAIS": "ES"	
-  }
 }
-]
