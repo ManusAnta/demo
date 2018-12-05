@@ -92,7 +92,7 @@
    "UNIDAD": "UN",
    "CANTIDAD": 1,
    "PRECIO": 250,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR": "",
    "ORDEN_COMPRA":""
   }
   ],
