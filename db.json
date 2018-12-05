@@ -44,7 +44,17 @@
     "CIF": "A01008754"
   }
   ],
-  "GetDireccionFacturacion": [
+    "GetDireccionFactura": {
+    "ID_DIRECCION": 12,
+	"ID_TERCERO": 10,
+	"DIRECCION": "CAMI REAL DE CALDAS, 34",
+	"LOCALIDAD": "BARCELONA",  
+	"CDPROVIN": "08",
+	"DSPROVIN": "BARCELONA",
+	"CODPOSTAL": "08184",
+	"CDPAIS": "ES"	
+  },
+  "GetListaDireccionFactura": [
   {
     "ID_DIRECCION": 11,
 	"ID_TERCERO": 10,
