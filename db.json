@@ -93,7 +93,7 @@
    "UNIDAD": "JO",
    "CANTIDAD": 2,
    "PRECIO": 725,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR":"",
    "ORDEN_COMPRA":""
   },
   {
@@ -102,7 +102,7 @@
    "UNIDAD": "UN",
    "CANTIDAD": 1,
    "PRECIO": 250,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR": "",
    "ORDEN_COMPRA":""
   }
   ],
