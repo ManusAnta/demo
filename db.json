@@ -83,7 +83,7 @@
    "UNIDAD": "JO",
    "CANTIDAD": 2,
    "PRECIO": 725,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR":"",
    "ORDEN_COMPRA":""
   },
   {
