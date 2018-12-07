@@ -44,6 +44,48 @@
     "CIF": "A01008754"
   }
   ],
+    "GetDireccionFactura": {
+    "ID_DIRECCION": 12,
+	"ID_TERCERO": 10,
+	"DIRECCION": "CAMI REAL DE CALDAS, 34",
+	"LOCALIDAD": "BARCELONA",  
+	"CDPROVIN": "08",
+	"DSPROVIN": "BARCELONA",
+	"CODPOSTAL": "08184",
+	"CDPAIS": "ES"	
+  },
+  "GetListaDireccionFactura": [
+  {
+    "ID_DIRECCION": 11,
+	"ID_TERCERO": 10,
+	"DIRECCION": "PI AMPROSERO,  PARCELA 19",
+	"LOCALIDAD": "BARCENA DE CICERO",
+	"CDPROVIN": "ALAVESA DE PINTURAS",
+	"DSPROVIN": "CANTABRIA",
+	"CODPOSTAL": "39",
+	"CDPAIS": "ES"
+  },
+  {
+    "ID_DIRECCION": 12,
+	"ID_TERCERO": 10,
+	"DIRECCION": "CAMI REAL DE CALDAS, 34",
+	"LOCALIDAD": "BARCELONA",  
+	"CDPROVIN": "08",
+	"DSPROVIN": "BARCELONA",
+	"CODPOSTAL": "08184",
+	"CDPAIS": "ES"
+  },
+  {
+   "ID_DIRECCION": 13, 
+   "ID_TERCERO": 10,
+   "DIRECCION": "CL INDUSTRIESTRASSE, 56",
+   "LOCALIDAD": "HASSFURT",  
+   "CDPROVIN": "",
+   "DSPROVIN": "",
+   "CODPOSTAL": "97437",
+   "CDPAIS": "DE"
+  }
+  ],
   "GetListaLineaFactura": [
   {
    "ID_LINEA_FACTURA": 101,
@@ -51,7 +93,7 @@
    "UNIDAD": "JO",
    "CANTIDAD": 2,
    "PRECIO": 725,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR":"",
    "ORDEN_COMPRA":""
   },
   {
@@ -60,7 +102,7 @@
    "UNIDAD": "UN",
    "CANTIDAD": 1,
    "PRECIO": 250,
-   "TARIFA_PROVEEDOR":,
+   "TARIFA_PROVEEDOR":"",
    "ORDEN_COMPRA":""
   }
   ],
